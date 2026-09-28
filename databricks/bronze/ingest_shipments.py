@@ -11,7 +11,7 @@ df = (
 
 bronze_df = (
     df
-    .withColumn("source_file", F.expr("_metadata.file_path"))
+    .withColumn("source_file", F.col("_metadata.file_path"))
     .withColumn("ingested_at", F.current_timestamp())
     .withColumn("batch_id", F.lit("batch_001"))
 )
