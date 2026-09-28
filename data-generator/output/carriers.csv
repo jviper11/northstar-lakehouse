@@ -1,0 +1,5 @@
+carrier_id,carrier_name,service_level,base_rate
+1,NorthLine Freight,Standard,18.5
+2,Velocity Express,Express,27.0
+3,Atlas Logistics,Standard,20.0
+4,Summit Transport,Priority,31.5

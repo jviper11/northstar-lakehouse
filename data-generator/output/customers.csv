@@ -1,0 +1,101 @@
+customer_id,customer_name,region,account_tier,created_at
+1,"Rodriguez, Figueroa and Sanchez",Northeast,Standard,2024-05-02 12:32:42
+2,"Garcia, Yang and Gardner",Midwest,Standard,2026-04-03 01:21:02
+3,Johnson-Davis,Southeast,Standard,2024-09-24 04:25:15
+4,"Guzman, Hoffman and Baldwin",Northeast,Enterprise,2026-01-22 07:05:06
+5,Robinson-Lawrence,West,Standard,2023-10-08 20:29:07
+6,Wolfe LLC,West,Premium,2024-12-03 09:59:19
+7,Lewis LLC,Northeast,Standard,2024-03-05 12:52:10
+8,James LLC,Northeast,Standard,2025-03-16 01:47:34
+9,"Baker, Williams and Stevens",Southeast,Enterprise,2024-04-09 16:03:02
+10,Miller-Carter,West,Standard,2026-06-01 07:35:04
+11,"Mcclure, Ward and Lee",West,Standard,2024-01-14 19:23:53
+12,Stanley LLC,West,Premium,2024-01-30 17:03:16
+13,Delacruz Group,Southeast,Premium,2024-12-03 13:48:04
+14,Reid-Diaz,West,Premium,2025-04-25 19:32:27
+15,Clark-Adams,Northeast,Standard,2026-08-25 14:41:53
+16,"Jones, Reid and Ferguson",Southwest,Premium,2024-10-13 01:24:25
+17,Ford LLC,Midwest,Standard,2026-06-18 23:06:52
+18,"Hawkins, Cohen and Cameron",Southeast,Premium,2023-12-24 15:42:43
+19,Underwood LLC,Northeast,Standard,2025-06-12 22:42:05
+20,Jones-Gentry,Southwest,Standard,2026-02-25 20:11:56
+21,"Edwards, Rios and Foster",Midwest,Premium,2026-06-23 09:26:56
+22,Thomas-Taylor,West,Premium,2026-02-16 19:30:54
+23,"Baker, Richards and Hurst",Northeast,Enterprise,2025-06-10 04:55:27
+24,Robinson-Bright,Southwest,Enterprise,2025-11-28 06:42:40
+25,Davis-Williams,Northeast,Premium,2024-03-17 02:12:36
+26,Burton Ltd,Northeast,Enterprise,2025-07-15 13:27:30
+27,"Brown, James and Ferrell",Midwest,Enterprise,2025-12-28 17:00:24
+28,Maddox-Valencia,West,Premium,2023-10-16 14:14:15
+29,"Le, Maldonado and Herrera",West,Standard,2024-11-16 06:09:29
+30,"Peterson, Carter and Moore",Northeast,Standard,2023-10-03 19:11:17
+31,"Liu, Baker and Mason",Southeast,Premium,2024-07-02 06:49:08
+32,"Gaines, Harrell and Evans",Northeast,Standard,2026-06-17 07:57:28
+33,"Lynch, Hernandez and Farmer",Northeast,Premium,2026-01-13 15:42:06
+34,"Sellers, George and Burns",Midwest,Premium,2024-03-20 12:55:30
+35,Koch-Decker,Midwest,Standard,2025-01-18 11:09:06
+36,Brown PLC,Midwest,Premium,2024-01-29 02:28:11
+37,Dennis Inc,Southeast,Enterprise,2026-01-03 06:55:10
+38,Anderson Group,Midwest,Enterprise,2026-01-29 20:21:28
+39,Baker PLC,Northeast,Enterprise,2025-07-17 01:55:11
+40,Hickman Ltd,Southeast,Enterprise,2024-08-06 05:38:57
+41,"Collins, Carney and Santos",Southeast,Standard,2025-08-09 07:44:57
+42,"Hayes, Wright and Brown",Southwest,Premium,2023-10-31 10:24:30
+43,"Spencer, Chapman and Smith",Midwest,Enterprise,2026-06-05 03:25:05
+44,Perez Inc,West,Standard,2025-02-23 01:27:41
+45,Palmer LLC,Midwest,Standard,2026-08-02 23:29:37
+46,Lewis-Anderson,Southeast,Standard,2026-03-03 20:13:26
+47,"Kennedy, Mueller and Aguirre",Midwest,Premium,2024-07-20 13:11:26
+48,Davis Group,Midwest,Standard,2025-04-01 03:21:54
+49,Jenkins-Shields,Southeast,Enterprise,2023-12-21 21:50:33
+50,"Valdez, Lucas and Brown",Midwest,Standard,2025-03-08 20:18:44
+51,Wright and Sons,Southwest,Premium,2026-01-08 20:22:35
+52,Taylor-White,Southwest,Standard,2025-09-16 10:13:08
+53,Baxter Inc,Midwest,Standard,2025-08-17 03:18:21
+54,"Garcia, Pearson and Fernandez",Southeast,Enterprise,2023-10-21 16:24:25
+55,House and Sons,West,Enterprise,2024-06-13 02:43:19
+56,Tucker-Lewis,Midwest,Enterprise,2025-06-12 18:03:36
+57,Martin Inc,West,Premium,2025-05-27 06:10:21
+58,House-Glover,West,Premium,2024-12-14 21:03:23
+59,Horton-Cross,Midwest,Standard,2026-02-08 02:44:21
+60,"Higgins, Moore and Phillips",Southeast,Enterprise,2023-12-28 14:36:34
+61,"Fitzgerald, Brown and Edwards",Southwest,Standard,2023-12-15 15:38:10
+62,"Woods, Calhoun and Schmidt",Northeast,Standard,2023-12-26 02:49:07
+63,"Miller, Lopez and Larson",Southeast,Enterprise,2026-08-12 15:56:34
+64,Powell PLC,Southeast,Enterprise,2024-10-15 05:46:04
+65,"Wheeler, Harvey and Barnes",Southwest,Enterprise,2026-03-23 11:04:28
+66,"Mills, Donovan and Harris",Northeast,Premium,2025-01-28 19:49:04
+67,Baker and Sons,Southwest,Enterprise,2026-08-07 04:37:15
+68,"Evans, Stewart and Walton",Southwest,Enterprise,2024-01-19 10:47:52
+69,Ellis PLC,Midwest,Enterprise,2024-03-02 01:45:56
+70,Medina PLC,Northeast,Enterprise,2024-11-13 17:34:57
+71,Mahoney Inc,Northeast,Enterprise,2024-10-12 05:46:39
+72,Mitchell-Kim,West,Premium,2026-01-19 14:49:40
+73,"Turner, Riggs and Roman",Midwest,Standard,2025-12-28 10:31:58
+74,Contreras PLC,Midwest,Premium,2025-01-05 19:50:35
+75,"Garcia, Humphrey and Baker",Southeast,Premium,2024-03-13 00:47:05
+76,"Tran, Nelson and Jacobs",Northeast,Enterprise,2025-03-14 09:41:53
+77,Watts LLC,Midwest,Enterprise,2025-11-21 21:12:35
+78,King-Odonnell,Southeast,Enterprise,2023-12-16 16:06:52
+79,Walters LLC,Northeast,Enterprise,2023-12-06 05:52:05
+80,Cook and Sons,Midwest,Enterprise,2026-06-14 11:30:09
+81,Martin-Ramos,West,Enterprise,2025-07-24 03:31:06
+82,"Smith, Jones and Ware",Southeast,Standard,2024-05-17 07:20:27
+83,"Johnson, Wood and Tran",Midwest,Standard,2025-07-27 09:48:16
+84,Williams LLC,West,Enterprise,2023-11-29 17:34:59
+85,Clark-Wright,Northeast,Enterprise,2024-03-06 10:37:06
+86,Deleon-Henson,Midwest,Premium,2025-06-21 01:02:29
+87,"Brady, Frost and Young",Northeast,Standard,2024-06-07 04:41:57
+88,Keith Inc,Midwest,Premium,2024-07-03 09:14:40
+89,"Middleton, Patton and Jenkins",Southeast,Standard,2026-08-04 10:08:32
+90,"Cochran, Adams and Cobb",Southeast,Enterprise,2024-03-14 16:17:29
+91,Brennan-Garrison,Northeast,Standard,2024-09-08 07:07:28
+92,Velasquez Group,Southwest,Standard,2025-03-24 22:24:19
+93,Hoover-Savage,West,Standard,2024-09-09 01:23:12
+94,Keller Group,Southeast,Enterprise,2025-02-19 16:41:13
+95,Lin-Rasmussen,Southwest,Enterprise,2024-12-05 08:43:42
+96,May-Ross,Southeast,Premium,2026-01-08 17:45:57
+97,Crosby-Wilson,West,Enterprise,2024-11-07 13:00:10
+98,Carpenter LLC,Southwest,Standard,2023-11-27 04:31:34
+99,Carlson LLC,West,Enterprise,2025-01-28 00:55:56
+100,Obrien-Dixon,Southeast,Enterprise,2025-05-19 03:19:15
